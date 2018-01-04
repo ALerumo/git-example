@@ -1,2 +1,7 @@
+function getmessage() {
+    return "hello, world";
+}
 
-console.log('hello world');
+
+const message = getmessage();
+console.log(message);
